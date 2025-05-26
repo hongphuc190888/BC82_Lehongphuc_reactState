@@ -134,7 +134,6 @@ function App() {
                 >
                   <img
                     style={{ width: "100%", height: "100%" }}
-                    // src="./src/assets/glassesImage/v1.png"
                     src={item.url}
                     alt=""
                   />
